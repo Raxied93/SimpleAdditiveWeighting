@@ -1,0 +1,16 @@
+C:\Users\Rifat\Documents\KararVerme\KararVerme\bin\Debug\net5.0\KararVerme.exe
+C:\Users\Rifat\Documents\KararVerme\KararVerme\bin\Debug\net5.0\KararVerme.deps.json
+C:\Users\Rifat\Documents\KararVerme\KararVerme\bin\Debug\net5.0\KararVerme.runtimeconfig.json
+C:\Users\Rifat\Documents\KararVerme\KararVerme\bin\Debug\net5.0\KararVerme.runtimeconfig.dev.json
+C:\Users\Rifat\Documents\KararVerme\KararVerme\bin\Debug\net5.0\KararVerme.dll
+C:\Users\Rifat\Documents\KararVerme\KararVerme\bin\Debug\net5.0\ref\KararVerme.dll
+C:\Users\Rifat\Documents\KararVerme\KararVerme\bin\Debug\net5.0\KararVerme.pdb
+C:\Users\Rifat\Documents\KararVerme\KararVerme\obj\Debug\net5.0\KararVerme.csprojAssemblyReference.cache
+C:\Users\Rifat\Documents\KararVerme\KararVerme\obj\Debug\net5.0\KararVerme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rifat\Documents\KararVerme\KararVerme\obj\Debug\net5.0\KararVerme.AssemblyInfoInputs.cache
+C:\Users\Rifat\Documents\KararVerme\KararVerme\obj\Debug\net5.0\KararVerme.AssemblyInfo.cs
+C:\Users\Rifat\Documents\KararVerme\KararVerme\obj\Debug\net5.0\KararVerme.csproj.CoreCompileInputs.cache
+C:\Users\Rifat\Documents\KararVerme\KararVerme\obj\Debug\net5.0\KararVerme.dll
+C:\Users\Rifat\Documents\KararVerme\KararVerme\obj\Debug\net5.0\ref\KararVerme.dll
+C:\Users\Rifat\Documents\KararVerme\KararVerme\obj\Debug\net5.0\KararVerme.pdb
+C:\Users\Rifat\Documents\KararVerme\KararVerme\obj\Debug\net5.0\KararVerme.genruntimeconfig.cache
